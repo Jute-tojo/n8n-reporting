@@ -1,0 +1,11 @@
+Date,Vendeur,Produit,Montant,Statut,Région,Client
+2026-10-13,Rakoto,Formation Excel,450,payé,Antananarivo,Moreau
+2026-10-14,Rasoa,Audit SEO,800,payé,Toamasina,Dupont
+2026-10-15,Naina,Maintenance site,300,payé,Fianarantsoa,Martin
+2026-10-16,Tojo,Formation IA,1800,payé,Toamasina,Moreau
+2026-10-17,Miora,Support premium,600,payé,Antananarivo,Legrand
+2026-10-18,Rakoto,Conseil digital,1200,en attente,Antananarivo,Dupont
+2026-10-19,Rasoa,Formation Excel,450,payé,Fianarantsoa,Martin
+2026-10-20,Naina,Audit accessibilité,950,impayé,Antananarivo,Petit
+2026-10-21,Tojo,Maintenance site,300,payé,Toamasina,Legrand
+2026-10-22,Miora,Formation IA,1800,payé,Antananarivo,Moreau
