@@ -58,10 +58,10 @@ Schedule Trigger → Sources (HubSpot + Sheets) → Merge → Code (KPI)
 ![Canevas n8n](screenshots/canvas.PNG)
 
 *Rapport avec 3 sections, alerte conditionnelle et liste des tickets critiques*
-![Page Notion](screenshots/notion.png)
+![Page Notion](screenshots/notion.PNG)
 
 *Email HTML avec 3 métriques, alerte orange et bouton vers Notion*
-![Email reçu](screenshots/email.png)
+![Email reçu](screenshots/email.PNG)
 
 **Principe de séparation des responsabilités** : le Code calcule tous les chiffres, 
 le LLM rédige uniquement le texte, et les outils (Notion, Gmail) publient le résultat. 
